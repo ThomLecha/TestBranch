@@ -15,5 +15,5 @@ f3 <- function(x,y,z){
 
 f4 <- function(x,y){
   # Soustrais 1 nombres
-  return(x-y-x)
+  return(x-y-x+y)
 }
