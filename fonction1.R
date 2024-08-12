@@ -6,3 +6,8 @@ f2 <- function(x,y,z){
   # Multiplie 3 nombres
   return(x*y*z)
 }
+
+f4 <- function(x,y){
+  # Soustrais 1 nombres
+  return(x-y)
+}
