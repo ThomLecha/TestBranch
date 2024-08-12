@@ -1,4 +1,4 @@
-f1 <- function(x,y){
-  # Additionne 2 nombres
-  return(x+y)
+f1 <- function(x,y,z){
+  # Additionne 3 nombres
+  return(x+y+z)
 }
