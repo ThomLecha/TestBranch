@@ -1,7 +1,6 @@
-f1 <- function(x,y){
-  # Additionne 2 nombres
-  return(x+y)
-}
+f1 <- function(x,y,z,w){
+  # Additionne 4 nombres
+  return(x+y+z+w)}
 
 f2 <- function(x,y,z){
   # Multiplie 3 nombres
