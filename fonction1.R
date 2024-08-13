@@ -17,3 +17,8 @@ f4 <- function(x,y){
   # Soustrais 2 nombres
   return(x-y-x+y)
 }
+
+f5 <- function(x,y,z){
+  # Soustrais 3 nombres
+  return(x-y-z)
+}
