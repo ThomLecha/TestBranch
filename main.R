@@ -13,3 +13,7 @@ f1 <- function(x,y,z,w,n){
   # Additionne 5 nombres
   return(x+y+z+w+n)
 }
+
+#Et on réexécuté f1
+s <- f1(1,2,3,4,5)
+print(s)
